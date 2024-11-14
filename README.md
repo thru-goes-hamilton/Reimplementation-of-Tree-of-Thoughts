@@ -1,1 +1,1 @@
-# Reimplementation of Tree of Thoughts Paper
+# Re-implementation of Tree of Thoughts Paper
